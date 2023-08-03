@@ -3,10 +3,10 @@
     <channel>
         <title>Konect.ai - Appcast</title>
         <item>
-            <title>Version 2.1.0</title>
-            <description>Call recording playback, call recording download, video upload.</description>
+            <title>Version 2.1.5</title>
+            <description>Call recording playback, call recording download, video upload, stop bot.</description>
             <pubDate>Mon, 17 Jul 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.konectai.android" sparkle:version="2.0.3" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.konectai.android" sparkle:version="2.1.5" sparkle:os="android" />
         </item>
     </channel>
 </rss>
